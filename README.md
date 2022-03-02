@@ -1,3 +1,3 @@
-# github_check
-Here is a ready to use bot template that can be deployed to [JAICP](https://test-ha01.gw.test-ai.net/project-create/jaicp/external)
-dev
+# Here is a Sbornaya-Solyanka of templates # йцукенгш1111111111111111
+
+[![Deploy](https://just-ai.com/img/deploy-to-jaicp.svg)](https://test15.gw.test-ai.net/project-create/jaicp/external)
